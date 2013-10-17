@@ -2,10 +2,9 @@
 <head>
 </head>
 <body>
+<!-- Comment-->
 <?php
 echo "hello, geekhubers!";
 ?>
-
-вавпвапвапвапвапва
 </body>
 </html>
